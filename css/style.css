@@ -85,6 +85,10 @@ address {
   font-style: normal;
   line-height: inherit; }
 
+.bg-slate-400 {
+    background-color:  rgb(209 213 219);
+  }
+
 ol,
 ul,
 dl {
