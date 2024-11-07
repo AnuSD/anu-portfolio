@@ -86,7 +86,7 @@ address {
   line-height: inherit; }
 
 .bg-slate-400 {
-  background-image: url('../images/background.jpg');
+  background-image: url('../images/background.jpg') !important;
   background-size: cover;      /* cover the entire element */
   background-position: center; /* center the image */
   background-repeat: no-repeat; /* prevent repetition */
